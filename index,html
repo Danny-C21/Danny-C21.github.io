@@ -1,1 +1,51 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Activity 1: Basic HTML Bio</title>
+</head>
+​
+<body>
+​
+  <h1>Daniel Chia</h1>
+​
+  <img src="https://placehold.it/200x200" alt="Danny">
+​
+  <p>I am beginning my journey to becoming a Data Scientist.</p>
+  <p>I have enjoyed the progress that I have made and look forward to continue learning</p>
+​
+  <ul>
+    <li><strong>Email:</strong> <a href="#">dannychia51990@gmail.com</a></li>
+    <li><strong>Github:</strong> <a href="#">https://github.com/Danny-C21</a></li>
+    <li><strong>LinkedIn:</strong> <a href="#">coming soon</a></li>
+  </ul>
+​
+  <table>
+    <tr>
+      <th>Movies</th>
+      <th>Musical Artists</th>
+      <th>Hobbies</th>
+    </tr>
+    <tr>
+      <td>Inception</td>
+      <td>Adjustment Bureau</td>
+      <td>Avengers Endgame</td>
+    </tr>
+    <tr>
+      <td>Red Hot Chili Peppers</td>
+      <td>System of a Down</td>
+      <td>Rise Against</td>
+    </tr>
+    <tr>
+      <td>Sports & Exercising</td>
+      <td>Movies</td>
+      <td>Video Games</td>
+    </tr>
+  </table>
+​
+  <!-- Bonus link to last class page -->
+  <a href="C:\Users\dc_90\OneDrive\Desktop\HTML1">My First HTML Attempt</a>
+​
+</body>
+​
+</html>
